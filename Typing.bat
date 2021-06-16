@@ -1,6 +1,8 @@
 @echo off
 setlocal enableextensions enabledelayedexpansion
 
+:: You can change the number behind lines= to how much lines you want. (You also have to update the lines below)
+
 set lines=3
 
 
